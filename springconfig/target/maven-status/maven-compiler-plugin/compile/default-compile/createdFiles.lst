@@ -1,0 +1,4 @@
+com\searchendeca\SpringconfigApplication.class
+com\searchendeca\message\GlobalProperties.class
+com\searchendeca\message\MessageExchangeService.class
+com\searchendeca\message\MessageController.class
